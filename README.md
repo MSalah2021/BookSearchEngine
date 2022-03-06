@@ -6,7 +6,7 @@
 
 ## Authors
 
-- [@Ceebcheng Yang](https://github.com/Ceebcheng)
+- [@Mawel Salah](https://github.com/MSalah2021)
 
 
 ## Info
@@ -18,5 +18,5 @@ links, pictures, descriptions of your favortires books.
 Down below are some screenshots of my favorite book!
 ## Screenshots
 
-![App Screenshot](https://github.com/Ceebcheng/Book-Search-Engine/blob/main/screenshots/Capture1.JPG)
+![App Screenshot](https://github.com/MSalah2021/Book-Search-Engine/blob/main/screenshots/Capture1.JPG)
 
